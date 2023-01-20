@@ -1,0 +1,121 @@
+{
+  "products": [
+    {
+      "id": 2,
+      "productName": "Men's Formals Shirt",
+      "categoryId": 2,
+      "description": "L Half Sleeves Shirt",
+      "price": "700",
+      "is_available": true,
+      "productImg": "https://i.postimg.cc/Yq1hvN16/shirt2.jpg",
+      "rating": "4.7",
+      "review": "250",
+      "vendor_name": "Malabar texstyle",
+      "warranty": 2
+    },
+    {
+      "id": 4,
+      "productName": "Women Dress",
+      "categoryId": 2,
+      "description": "Casual fashion dress",
+      "price": "5000",
+      "is_available": true,
+      "productImg": "https://i.postimg.cc/MK8GJchv/w1.jpg",
+      "rating": "4.1",
+      "review": 450,
+      "vendor_name": "Chennai Textiles",
+      "warranty": 1
+    },
+    {
+      "id": 5,
+      "productName": "Kids Dress",
+      "categoryId": 2,
+      "description": "girl Dress",
+      "price": 900,
+      "is_available": true,
+      "productImg": "https://i.postimg.cc/Jhtr5jBd/k2.jpg",
+      "rating": 4.8,
+      "review": 530,
+      "vendor_name": "Mumbai Textiles",
+      "warranty": 1
+    },
+    {
+      "id": 6,
+      "productName": "Kids Dress",
+      "categoryId": 2,
+      "description": "girl Dress",
+      "price": "900",
+      "is_available": true,
+      "productImg": "https://i.postimg.cc/GmLh9W3R/k1.jpg",
+      "rating": 4.8,
+      "review": 430,
+      "vendor_name": "Mumbai Textiles",
+      "warranty": 1
+    },
+    {
+      "id": 8,
+      "productName": "Women Dress",
+      "categoryId": 2,
+      "description": "girl Dress",
+      "price": 900,
+      "is_available": true,
+      "productImg": "https://i.postimg.cc/hG7FGsmg/w2.jpg",
+      "rating": 4.8,
+      "review": 530,
+      "vendor_name": "Munni Textiles",
+      "warranty": 1
+    },
+    {
+      "id": "9",
+      "productName": "Laptop",
+      "categoryId": 1,
+      "description": "Latest Core Processor",
+      "price": "45000",
+      "is_available": "yes",
+      "productImg": "https://i.postimg.cc/XJwTfvxz/l1.jpg",
+      "rating": "4",
+      "review": "70",
+      "vendor_name": "Lenovo",
+      "warranty": 2
+    },
+    {
+      "id": "10",
+      "productName": "Pierced Owl Rose Gold Plated Stainless Steel Double",
+      "categoryId": 3,
+      "description": "Rose Gold Plated Double Flared Tunnel Plug Earrings. Made of 316L Stainless Steel",
+      "price": "500",
+      "is_available": "yes",
+      "productImg": "https://fakestoreapi.com/img/51UDEzMJVpL._AC_UL640_QL65_ML3_.jpg",
+      "rating": "3.5",
+      "review": "200",
+      "vendor_name": "Malabar Jwellers",
+      "warranty": 1
+    },
+    {
+      "id": "12",
+      "productName": "shirt",
+      "categoryId": 2,
+      "description": "Mens shirt ",
+      "price": "2000",
+      "is_available": "yes",
+      "productImg": "https://i.postimg.cc/0jyqc6Y4/shirt4.webp",
+      "rating": "4",
+      "review": "65",
+      "vendor_name": "abc",
+      "warranty": "3"
+    },
+    {
+      "id": "11",
+      "productName": "Daimond Ring",
+      "categoryId": "3",
+      "description": "Golden Plated Daimond Ring",
+      "price": "5000",
+      "is_available": "true",
+      "productImg": "https://i.postimg.cc/RV3fNWgt/ring.png",
+      "rating": "4",
+      "review": "67",
+      "vendor_name": "Malabar",
+      "warranty": "2"
+    }
+  ]
+}
